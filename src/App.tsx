@@ -8,7 +8,7 @@ function App() {
       <header className="min-h-screen flex flex-col items-center justify-center relative bg-gradient-to-br from-blue-50 to-indigo-50">
         <div className="container mx-auto px-4 text-center">
           <img
-            src="src\assets\RY.jpg.jpg"
+            src="/Portfolio/RY.jpg"
             alt="Profile"
             className="w-40 h-40 rounded-full mx-auto mb-8 object-cover shadow-lg"
           />
